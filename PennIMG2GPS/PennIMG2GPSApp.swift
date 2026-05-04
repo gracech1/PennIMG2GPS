@@ -11,7 +11,7 @@ import SwiftUI
 struct PennIMG2GPSApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GPSPredictView()
         }
     }
 }
